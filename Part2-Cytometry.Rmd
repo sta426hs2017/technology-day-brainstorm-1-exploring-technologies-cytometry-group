@@ -17,7 +17,7 @@ The goal of this document is to give a small insight into the topic of cytometry
 
 + Measurement of charactersitics of cells (both individual and populations) including cell size, cell count, cell shape and structure, cell cycle phase, DNA content and presence of proteins.
 
-+ In **flow cytometry**, cells are suspendend in a liquid solution and injected into a stream of sheath fluid and henceforth additionally focused. Individual cell proberties are interrogated by optical or conductivity based measurements. Flow properties are  cytometry has a frequently used extension - cell sorting, where cells are split into indivdual streams based on their properties.
++ In **flow cytometry**, cells are suspendend in a liquid solution and injected into a stream of sheath fluid and henceforth additionally focused. Individual cell proberties are interrogated by optical or conductivity based measurements. Flow properties are cytometry has a frequently used extension - cell sorting, where cells are split into indivdual streams based on their properties.
 
 + Flow cytometry often uses fluorescence tagging of cells, the application thereof is often complicated by wide emission spectra of fluorophores. This issue is adressed in **mass cytometry**, where antibody-tagged proteins in cells are chemically bondend to unique pure elements, often metals. The cells are then focsued to a stream and can be analyzed based on the mass of conjugated element, e.g. by time-of-flight mass spectrometer.
 
