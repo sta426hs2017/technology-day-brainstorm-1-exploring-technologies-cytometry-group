@@ -30,6 +30,19 @@ Resources:
 [2] https://en.wikipedia.org/wiki/Mass_spectrometry
 [3] http://flowbook.denovosoftware.com/chapter-2-flow-cytometer
 
+**Useful links:**
+
+### Flow cytometry
+- http://www.abcam.com/protocols/introduction-to-flow-cytometry
+- http://isac-net.org/About/What-is-Cytometry.aspx
+
+
+### Mass cytometry
+- http://bitesizebio.com/20066/introducing-cytof-cytometry-of-the-masses/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860251/
+- http://www.nature.com/nbt/journal/v35/n2/fig_tab/nbt.3770_SF5.html
+
+
 # Part 3 - Brainstorm: Applications in genomics 
 
 ### e.g., gene expression
